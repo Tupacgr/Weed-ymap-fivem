@@ -2,6 +2,11 @@
 **Hi guys!**
 
 Its about a ymap whih can be used for processing or selling/buying/farming weed!
+Preview: 
+![Screenshot_15](https://github.com/Tupacgr/Weed-ymap-fivem/assets/83091800/a441bb32-f4cc-4214-a162-42a4ff196719)
+![Screenshot_16](https://github.com/Tupacgr/Weed-ymap-fivem/assets/83091800/1f8efb70-1ad3-47be-95f6-6aac7e892755)
+![Screenshot_17](https://github.com/Tupacgr/Weed-ymap-fivem/assets/83091800/f246ccef-cdad-4366-a29d-944cf4c87834)
+
 NOTE: THIS WAS NOT CREATED TO PROMOTE ANY CRIMINAL ACTIVITIES IN REAL LIFE!
 
 Installation in fivem:
